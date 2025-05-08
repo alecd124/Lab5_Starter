@@ -24,10 +24,10 @@ function init() {
     if (volume === 0) {
       volumeLevel = 0;
     } 
-    else if (volume <= 33) {
+    else if (volume < 33) {
       volumeLevel = 1;
     } 
-    else if (volume <= 67) {
+    else if (volume < 67) {
       volumeLevel = 2;
     } 
     else {
