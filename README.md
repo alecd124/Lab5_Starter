@@ -1,6 +1,9 @@
 # Lab 5 - Starter
 Make sure you make a PR to your own repo's main and not the class' repo!! Otherwise you will lose points!!
 
+https://alecd124.github.io/Lab5_Starter/explore.html
+https://alecd124.github.io/Lab5_Starter/expose.html
+
 Explore - Check Your Understanding
 1) I don't think I would use a unit test to test a message feature since it would require much more components than question 2 with the max message length. Therefore I don't think it's efficient to do a unit test for a message feature. Testing integrations sounds a lot better to test rather than unit testing.
 
